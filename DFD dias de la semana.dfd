@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+dia(1)
+7
+"lunes"
+6
+dia(2)
+8
+"martes"
+6
+dia(3)
+11
+"miercoles"
+6
+3
+6
+dia(4)
+8
+"jueves"
+6
+dia(5)
+9
+"viernes"
+6
+dia(6)
+8
+"sabado"
+6
+1
+6
+dia(7)
+9
+"domingo"
+4
+1
+52
+"indroduzca un numero para cual dia de la semana es"
+5
+1
+1
+d
+7
+0
+1
+15
+d >=1 AND d <=7
+4
+1
+31
+"no es ningun dia de la semana"
+13
+4
+1
+32
+"su dia de la semana es ",day(d)
+13
+1
